@@ -25,7 +25,6 @@
 | Ciencia de Datos | MinTIC & Universidad Distrital | 2024 |
 | Arquitectura de Soluciones AWS | Colsubsidio & Cymetria Group | 2024 |
 | Excel Avanzado + Power BI | CET Colsubsidio | 2024 |
-| Beca ONE Data Science | Oracle Next Education & Alura Latam | 2024 |
 | Ciberseguridad | Colsubsidio & Universidad de los Andes | 2024 |
 
 🚀 **Actualmente trabajando en:**
