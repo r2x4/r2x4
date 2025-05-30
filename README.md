@@ -15,6 +15,19 @@
 - Visualización de indicadores para toma de decisiones
 - Integración de datos desde APIs y fuentes externas
 
+### 🏆 Certificaciones Recientes
+
+### 📊 Tabla de Certificaciones
+| Certificación/Curso | Institución | Año |
+|---------------------|-------------|-----|
+| Full Stack Developer Certified Specialist | ITCERTIFICATE | 2024 |
+| Back End Developer Certified Professional | ITCERTIFICATE | 2024 |
+| Ciencia de Datos | MinTIC & Universidad Distrital | 2024 |
+| Arquitectura de Soluciones AWS | Colsubsidio & Cymetria Group | 2024 |
+| Excel Avanzado + Power BI | CET Colsubsidio | 2024 |
+| Beca ONE Data Science | Oracle Next Education & Alura Latam | 2024 |
+| Ciberseguridad | Colsubsidio & Universidad de los Andes | 2024 |
+
 🚀 **Actualmente trabajando en:**
 - Proyectos de la Beca ONE Oracle
 - Soluciones de datos para retos académicos y personales
@@ -24,3 +37,5 @@
 
 ---
 > *“Transformo datos en decisiones estratégicas que generan valor”*
+
+**📍 Bogotá, Colombia | Abierto a colaboraciones**
