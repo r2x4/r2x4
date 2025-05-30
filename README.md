@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Rodrigo Rocha Sierra
 
-<!--
-**r2x4/r2x4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Analista de Datos** con formación en Ingeniería de Software. Actualmente participo en la **Beca ONE Oracle - Ciencia de Datos**, donde desarrollo proyectos reales aplicando técnicas de análisis, limpieza y visualización de datos.
 
-Here are some ideas to get you started:
+🔧 **Tecnologías y herramientas:**
+- Python (pandas, matplotlib, seaborn, Jupyter)
+- SQL (MySQL)
+- Power BI para dashboards e informes interactivos
+- Procesos ETL automatizados
+- Fundamentos de desarrollo web (JavaScript, React)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 **Experiencia práctica en:**
+- Análisis de datos, servicios y ventas
+- Automatización de procesos de carga y limpieza de datos
+- Visualización de indicadores para toma de decisiones
+- Integración de datos desde APIs y fuentes externas
+
+🚀 **Actualmente trabajando en:**
+- Proyectos de la Beca ONE Oracle
+- Soluciones de datos para retos académicos y personales
+
+📫 **Conecta conmigo:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo_Rocha-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rodrigo-rocha-sierra-74a8192b2)
+
+---
+> *“Transformo datos en decisiones estratégicas que generan valor”*
