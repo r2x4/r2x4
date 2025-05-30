@@ -7,7 +7,7 @@
 - SQL (MySQL)
 - Power BI para dashboards e informes interactivos
 - Procesos ETL automatizados
-- Fundamentos de desarrollo web (JavaScript, React)
+- Fundamentos de desarrollo web (JavaScript, React, Java, Git, Node.JS)
 
 📈 **Experiencia práctica en:**
 - Análisis de datos, servicios y ventas
