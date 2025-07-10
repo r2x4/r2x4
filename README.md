@@ -20,6 +20,7 @@
 ### 📊 Tabla de Certificaciones
 | Certificación/Curso | Institución | Año |
 |---------------------|-------------|-----|
+| Ciberseguridad Google | Google | 2025 |
 | Full Stack Developer Certified Specialist | ITCERTIFICATE | 2024 |
 | Back End Developer Certified Professional | ITCERTIFICATE | 2024 |
 | Desarrollador Web Full Stack Nivel Intermedio| Min TIC y talento Tech | 2024 |
