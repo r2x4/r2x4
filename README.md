@@ -20,6 +20,7 @@
 ### 📊 Tabla de Certificaciones
 | Certificación/Curso | Institución | Año |
 |---------------------|-------------|-----|
+| One Tech Foundation G8 - Data Sciense | Oracle y Alura Latam | 2025 |
 | Ciberseguridad Google | Google | 2025 |
 | Full Stack Developer Certified Specialist | ITCERTIFICATE | 2024 |
 | Back End Developer Certified Professional | ITCERTIFICATE | 2024 |
