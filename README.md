@@ -1,6 +1,8 @@
 # 👋 ¡Hola! Soy Rodrigo Rocha Sierra
 
-🎓 **Analista de Datos** Actualmente en formación de Ingeniería de Software ultimos semestres, participo en la **Beca Oracle Next Education - Data Sciense**, donde desarrollo proyectos reales aplicando técnicas de análisis, limpieza y visualización de datos.
+🎓 Científico y Analista de Datos | Desarrollador Full-Stack Junior (Python, JS, TS, React, Angular).
+Experiencia en gestión, análisis y visualización de datos con Power BI, MySQL y Python. Especializado en automatización de procesos y en el diseño de soluciones basadas en datos que apoyan la toma de decisiones.
+Estudiante de Ingeniería en Software.
 
 🔧 **Tecnologías y herramientas:**
 - Python (pandas, matplotlib, seaborn, Jupyter)
