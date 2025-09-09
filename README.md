@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Rodrigo Rocha Sierra
 
 🎓 Científico y Analista de Datos | Desarrollador Full-Stack Junior (Python, JS, TS, React, Angular).
-Experiencia en gestión, análisis y visualización de datos con Power BI, MySQL y Python. Especializado en automatización de procesos y en el diseño de soluciones basadas en datos que apoyan la toma de decisiones.
+Experiencia en gestión, análisis y visualización de datos con Power BI y MySQL. Especializado en automatización de procesos y en el diseño de soluciones basadas en datos que apoyan la toma de decisiones.
 Estudiante de Ingeniería en Software Ultimos Semestres.
 
 🔧 **Tecnologías y herramientas:**
