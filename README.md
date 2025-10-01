@@ -22,6 +22,7 @@ Estudiante de Ingeniería en Software Ultimos Semestres.
 ### 📊 Tabla de Certificaciones
 | Certificación/Curso | Institución | Año |
 |---------------------|-------------|-----|
+| Oracle Cloud Infrastructure 2025 Certified Foundations Associate  | Oracle | 2025 |
 | One Tech Foundation G8 - Data Sciense | Oracle y Alura Latam | 2025 |
 | Ciberseguridad Google | Google | 2025 |
 | Full Stack Developer Certified Specialist | ITCERTIFICATE | 2024 |
