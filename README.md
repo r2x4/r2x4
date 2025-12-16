@@ -2,7 +2,7 @@
 
 🎓 Científico y Analista de Datos | Desarrollador Full-Stack Junior (Python, JS, TS, React, Angular).
 Experiencia en gestión, análisis y visualización de datos con Power BI y MySQL. Especializado en automatización de procesos y en el diseño de soluciones basadas en datos que apoyan la toma de decisiones.
-Estudiante de Ingeniería en Software Ultimos Semestres.
+Estudiante de Ingeniería en Software Ultimo Semestre.
 
 🔧 **Tecnologías y herramientas:**
 - Python (pandas, matplotlib, seaborn, Jupyter)
